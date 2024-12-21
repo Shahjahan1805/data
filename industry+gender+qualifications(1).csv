@@ -1,0 +1,97 @@
+Industry (current) (9 categories) Code,Industry,Highest level of qualification Code,Highest level of qualification,Sex Code,Sex,Observation,Population,Percentage
+1,Agriculture,0,No qualifications,1,Female,12933,59597547,0.000217006
+1,Agriculture,0,No qualifications,2,Male,66541,59597547,0.001116506
+1,Agriculture,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,15468,59597547,0.000259541
+1,Agriculture,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,52912,59597547,0.000887822
+1,Agriculture,2,Lvl 2 : 5 or more GCSEs,1,Female,28622,59597547,0.000480255
+1,Agriculture,2,Lvl 2 : 5 or more GCSEs,2,Male,66267,59597547,0.001111908
+1,Agriculture,3,Lvl 3: 2 or more A levels,1,Female,33900,59597547,0.000568815
+1,Agriculture,3,Lvl 3: 2 or more A levels,2,Male,102585,59597547,0.001721296
+1,Agriculture,4,Lvl 4 or above: Degree,1,Female,62806,59597547,0.001053835
+1,Agriculture,4,Lvl 4 or above: Degree,2,Male,146567,59597547,0.002459279
+1,Agriculture,5,apprenticeships,1,Female,7723,59597547,0.000129586
+1,Agriculture,5,apprenticeships,2,Male,48737,59597547,0.000817769
+2,Manufacturing,0,No qualifications,1,Female,77586,59597547,0.001301832
+2,Manufacturing,0,No qualifications,2,Male,187297,59597547,0.003142696
+2,Manufacturing,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,67138,59597547,0.001126523
+2,Manufacturing,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,167080,59597547,0.002803471
+2,Manufacturing,2,Lvl 2 : 5 or more GCSEs,1,Female,88722,59597547,0.001488685
+2,Manufacturing,2,Lvl 2 : 5 or more GCSEs,2,Male,196475,59597547,0.003296696
+2,Manufacturing,3,Lvl 3: 2 or more A levels,1,Female,95468,59597547,0.001601878
+2,Manufacturing,3,Lvl 3: 2 or more A levels,2,Male,293169,59597547,0.004919145
+2,Manufacturing,4,Lvl 4 or above: Degree,1,Female,223121,59597547,0.003743795
+2,Manufacturing,4,Lvl 4 or above: Degree,2,Male,438050,59597547,0.007350135
+2,Manufacturing,5,apprenticeships,1,Female,36889,59597547,0.000618968
+2,Manufacturing,5,apprenticeships,2,Male,169212,59597547,0.002839244
+3,Construction,0,No qualifications,1,Female,25807,59597547,0.000433021
+3,Construction,0,No qualifications,2,Male,266392,59597547,0.004469848
+3,Construction,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,34436,59597547,0.000577809
+3,Construction,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,215582,59597547,0.003617297
+3,Construction,2,Lvl 2 : 5 or more GCSEs,1,Female,56592,59597547,0.000949569
+3,Construction,2,Lvl 2 : 5 or more GCSEs,2,Male,286948,59597547,0.004814762
+3,Construction,3,Lvl 3: 2 or more A levels,1,Female,64740,59597547,0.001086286
+3,Construction,3,Lvl 3: 2 or more A levels,2,Male,499691,59597547,0.008384422
+3,Construction,4,Lvl 4 or above: Degree,1,Female,106603,59597547,0.001788715
+3,Construction,4,Lvl 4 or above: Degree,2,Male,483829,59597547,0.00811827
+3,Construction,5,apprenticeships,1,Female,18193,59597547,0.000305264
+3,Construction,5,apprenticeships,2,Male,347415,59597547,0.005829351
+4,Hotels and restaurants,0,No qualifications,1,Female,335706,59597547,0.005632883
+4,Hotels and restaurants,0,No qualifications,2,Male,407774,59597547,0.006842127
+4,Hotels and restaurants,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,342254,59597547,0.005742753
+4,Hotels and restaurants,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,364643,59597547,0.006118423
+4,Hotels and restaurants,2,Lvl 2 : 5 or more GCSEs,1,Female,522374,59597547,0.008765025
+4,Hotels and restaurants,2,Lvl 2 : 5 or more GCSEs,2,Male,484676,59597547,0.008132482
+4,Hotels and restaurants,3,Lvl 3: 2 or more A levels,1,Female,557724,59597547,0.00935817
+4,Hotels and restaurants,3,Lvl 3: 2 or more A levels,2,Male,630735,59597547,0.010583238
+4,Hotels and restaurants,4,Lvl 4 or above: Degree,1,Female,729980,59597547,0.012248491
+4,Hotels and restaurants,4,Lvl 4 or above: Degree,2,Male,720392,59597547,0.012087612
+4,Hotels and restaurants,5,apprenticeships,1,Female,152592,59597547,0.002560374
+4,Hotels and restaurants,5,apprenticeships,2,Male,270440,59597547,0.004537771
+5,Transport,0,No qualifications,1,Female,45044,59597547,0.000755803
+5,Transport,0,No qualifications,2,Male,219722,59597547,0.003686762
+5,Transport,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,55030,59597547,0.00092336
+5,Transport,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,207311,59597547,0.003478516
+5,Transport,2,Lvl 2 : 5 or more GCSEs,1,Female,91251,59597547,0.00153112
+5,Transport,2,Lvl 2 : 5 or more GCSEs,2,Male,248598,59597547,0.004171279
+5,Transport,3,Lvl 3: 2 or more A levels,1,Female,116060,59597547,0.001947396
+5,Transport,3,Lvl 3: 2 or more A levels,2,Male,346013,59597547,0.005805826
+5,Transport,4,Lvl 4 or above: Degree,1,Female,347794,59597547,0.00583571
+5,Transport,4,Lvl 4 or above: Degree,2,Male,808086,59597547,0.013559048
+5,Transport,5,apprenticeships,1,Female,28013,59597547,0.000470036
+5,Transport,5,apprenticeships,2,Male,152438,59597547,0.00255779
+6,Financial and administrative,0,No qualifications,1,Female,169093,59597547,0.002837248
+6,Financial and administrative,0,No qualifications,2,Male,166692,59597547,0.002796961
+6,Financial and administrative,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,185384,59597547,0.003110598
+6,Financial and administrative,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,164667,59597547,0.002762983
+6,Financial and administrative,2,Lvl 2 : 5 or more GCSEs,1,Female,312994,59597547,0.005251793
+6,Financial and administrative,2,Lvl 2 : 5 or more GCSEs,2,Male,254619,59597547,0.004272307
+6,Financial and administrative,3,Lvl 3: 2 or more A levels,1,Female,400408,59597547,0.006718532
+6,Financial and administrative,3,Lvl 3: 2 or more A levels,2,Male,411248,59597547,0.006900418
+6,Financial and administrative,4,Lvl 4 or above: Degree,1,Female,1121436,59597547,0.018816815
+6,Financial and administrative,4,Lvl 4 or above: Degree,2,Male,1354003,59597547,0.022719106
+6,Financial and administrative,5,apprenticeships,1,Female,93409,59597547,0.00156733
+6,Financial and administrative,5,apprenticeships,2,Male,129356,59597547,0.002170492
+7,Education and Health,0,No qualifications,1,Female,246205,59597547,0.004131126
+7,Education and Health,0,No qualifications,2,Male,107885,59597547,0.001810226
+7,Education and Health,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,349525,59597547,0.005864755
+7,Education and Health,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,132890,59597547,0.00222979
+7,Education and Health,2,Lvl 2 : 5 or more GCSEs,1,Female,680712,59597547,0.011421812
+7,Education and Health,2,Lvl 2 : 5 or more GCSEs,2,Male,228111,59597547,0.003827523
+7,Education and Health,3,Lvl 3: 2 or more A levels,1,Female,1190123,59597547,0.019969329
+7,Education and Health,3,Lvl 3: 2 or more A levels,2,Male,457579,59597547,0.007677816
+7,Education and Health,4,Lvl 4 or above: Degree,1,Female,3281466,59597547,0.055060421
+7,Education and Health,4,Lvl 4 or above: Degree,2,Male,1487231,59597547,0.024954567
+7,Education and Health,5,apprenticeships,1,Female,186532,59597547,0.00312986
+7,Education and Health,5,apprenticeships,2,Male,120582,59597547,0.002023271
+8,Other,0,No qualifications,1,Female,38551,59597547,0.000646855
+8,Other,0,No qualifications,2,Male,41285,59597547,0.00069273
+8,Other,1,Lvl 1 : 1 to 4 GCSEs ,1,Female,46555,59597547,0.000781156
+8,Other,1,Lvl 1 : 1 to 4 GCSEs ,2,Male,38698,59597547,0.000649322
+8,Other,2,Lvl 2 : 5 or more GCSEs,1,Female,91899,59597547,0.001541993
+8,Other,2,Lvl 2 : 5 or more GCSEs,2,Male,62549,59597547,0.001049523
+8,Other,3,Lvl 3: 2 or more A levels,1,Female,182235,59597547,0.00305776
+8,Other,3,Lvl 3: 2 or more A levels,2,Male,109930,59597547,0.001844539
+8,Other,4,Lvl 4 or above: Degree,1,Female,304760,59597547,0.005113633
+8,Other,4,Lvl 4 or above: Degree,2,Male,245068,59597547,0.004112048
+8,Other,5,apprenticeships,1,Female,60179,59597547,0.001009756
+8,Other,5,apprenticeships,2,Male,43665,59597547,0.000732664
